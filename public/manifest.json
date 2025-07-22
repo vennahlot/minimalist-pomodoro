@@ -1,0 +1,40 @@
+{
+  "name": "Minimalist Pomodoro",
+  "short_name": "Pomodoro",
+  "description": "Stay focused, get things done with the Pomodoro Technique",
+  "start_url": "/minimalist-pomodoro/",
+  "display": "standalone",
+  "background_color": "#1c1917",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "scope": "/minimalist-pomodoro/",
+  "icons": [
+    {
+      "src": "/minimalist-pomodoro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/minimalist-pomodoro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "/minimalist-pomodoro/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/minimalist-pomodoro/screenshot-narrow.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+} 
